@@ -30,7 +30,7 @@ body {
   transition: 0.5s;
   justify-content: flex-start;
   align-items: center;
-  background: linear-gradient(45deg, #1a2f3f, #7094ce);
+  background: linear-gradient(45deg, #933f3f, #a83b3b);
 }
 
 .container .card img {
@@ -40,6 +40,9 @@ body {
   transform: translateX(-50%);
   height: 400px;
   transition: 0.5s;
+}
+#jules-image {
+  height: 430px;
 }
 .container .card:hover img {
   left: 60%;

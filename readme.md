@@ -1,3 +1,3 @@
-#Pulp Fiction responsive presentation Cards
+#Pulp Fiction Responsive Presentation Cards
 
-Vincent Vega & Jules Winnfield
+Vincent Vega & Jules Winnfield presentation cards
