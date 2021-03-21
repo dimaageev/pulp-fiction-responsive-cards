@@ -98,11 +98,26 @@ body {
     left: 50%;
     height: 400px;
   }
-  .container .card .container {
+  .container .card .content {
     width: 100%;
     left: 0;
     padding: 40px;
   }
 }
 @media (max-width: 767px) {
+  .container {
+    flex-direction: column;
+  }
+  .container .card {
+    margin: 40px 20px;
+  }
+}
+
+@media (max-width: 420px) {
+  .container .card .content {
+    padding: 30px;
+  }
+  .container .card:hover img {
+    height: 300px;
+  }
 }
